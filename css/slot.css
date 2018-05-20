@@ -1,0 +1,93 @@
+.content-wrapper{
+	margin:0 auto;
+}
+/*			daily			*/
+.daily-clip-wrapper{
+	width:400px;
+	height:120px;
+}
+.daily-img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-size: 100px;
+}
+
+.daily-title{
+	padding-top:18px;
+}
+
+
+/*			new_channel			*/
+.new-channel-clip-wrapper{
+	width:100%;
+}
+.new-channel-img{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-size: 100px;
+    background-image: url(https://ssl.phinf.net/audio/20161206_72/1481029794871bRhHz_PNG/%BF%AD%B8%B0%BF%AC%B4%DC_v2_%C3%A4%B3%CE%BC%B6%B3%D7%C0%CF.png);
+}
+
+.new-channel-title{
+	padding-top:18px;
+}
+
+.new-channel-title p{
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 0;
+}
+
+
+/*			clip_chart			*/
+.clip-chart-image{
+	width: 70px;
+    height: 70px;
+    float: left;
+    background-size: 70px;
+	border-radius:100%;
+	background-image: url(https://ssl.phinf.net/audio/20161206_72/1481029794871bRhHz_PNG/%BF%AD%B8%B0%BF%AC%B4%DC_v2_%C3%A4%B3%CE%BC%B6%B3%D7%C0%CF.png);
+}
+.clip-chart-wrapper{
+	width: 400px;
+    height: 88px;
+}
+
+.clip-chart-title{
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	padding: 12px 0 0 30px;
+	text-align:left;
+}
+
+.clip-chart-title p{
+	margin:0;
+}
+
+.clip-chart-title .view{
+	font-size: 12px;
+	color : #888;
+}
+
+.clip-chart-title .detail{
+	padding-left: 10px;
+	font-size: 12px;
+}
+
+.clip-chart-title .detail-wrapper{
+	margin-right: 60px;
+}
+
+.clip-chart-ranking{
+	float:left;
+    margin-top : 16px;
+    width:60px;
+}
+
+.clip-chart-ranking p{
+	font-size:25px;
+}
