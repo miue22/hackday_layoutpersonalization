@@ -33,7 +33,7 @@
 * 로그인 되어있지만 setting이 없거나, 편집을 통해 요소를 0개로 만든 경우에도 `Default set`이 적용됩니다. 
 
 
-* 레이아웃 setting은 `json array`로 이루어져 있으며, [Develope Environment](https://github.com/NAVER-CAMPUS-HACKDAY/LayoutPersonalization/blob/Jun/Develope_Environment.md) 문서의 `Database`항목을 참고하세요. 
+* 레이아웃 setting은 `json array`로 이루어져 있으며, [Develope Environment](https://github.com/miue22/hackday_layoutpersonalization/blob/master/DEVELOP_ENVIRONMENT.md) 문서의 `Database`항목을 참고하세요. 
 
 
 * setting이 존재할 경우에는 `for in`을 통해 `setting`의 데이터를 대상으로 반복문을 실행하게 됩니다.
